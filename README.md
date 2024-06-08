@@ -1,6 +1,7 @@
 # 💫 About Me:
  I’m currently working on GrubStake<br><br>🌱 I’m currently learning Backend<br><br>💬 Ask me about HTML,CSS,JAVASCRIPT,React, Node, Express<br><br>📫 How to reach me dubeyanubhav12345@gmail.com<br><br>⚡ Fun fact I think I am pretty depressed 😂<br><br>
 
+[![](https://visitcount.itsvg.in/api?id=Anubhavprogramer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anubhav_x_10_tion) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/x_10_tion/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anubhav-dubey-b7004125a/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCcfBbZ0Mb1yvrFZ88ozFEHA) 
@@ -15,13 +16,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anubhavprogramer&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anubhavprogramer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anubhavprogramer&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
