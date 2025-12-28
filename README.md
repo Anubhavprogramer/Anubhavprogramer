@@ -109,7 +109,31 @@ React Native · Firebase · Auth
 Optimize Firebase queries & cache responses
 </details>
 
+
 ---
 
-## 🎮 Developer RPG Stats
+## 🐍 Snake Eats My Contributions
+
+<p align="center">
+  <img src="https://github.com/Anubhavprogramer/Anubhavprogramer/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anubhavprogramer&show_icons=true&rank_icon=github"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhavprogramer"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anubhavprogramer&layout=compact"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
 
