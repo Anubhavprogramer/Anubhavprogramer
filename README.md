@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anubhav Dubey</h1>
-<h3 align="center">
-Mobile App Developer (iOS & React Native) • Frontend Engineer • Product Builder
-</h3>
 
 <p align="center">
-I build <strong>high-performance mobile applications</strong> and <strong>modern frontends</strong> with a strong focus on
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=500&color=2F80ED&center=true&vCenter=true&width=650&lines=Mobile+App+Developer;Swift+%7C+SwiftUI+%7C+React+Native;Performance-First+App+Builder;Turning+Ideas+Into+Products" 
+  />
+</p>
+
+<p align="center">
+I build <strong>high-performance mobile applications</strong> and <strong>modern frontends</strong> with a focus on
 clean architecture, performance, and real-world usability.
 </p>
 
@@ -13,7 +16,9 @@ From native <strong>Swift / SwiftUI iOS apps</strong> to <strong>React Native cr
 I enjoy turning ideas into polished, scalable products 🚀
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 📱 Navigation
 - [🧠 About Me](#-about-me)
@@ -26,7 +31,9 @@ I enjoy turning ideas into polished, scalable products 🚀
 - [📬 Contact](#-where-to-find-me)
 - [📈 GitHub Stats](#-github-stats)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 🧠 About Me
 - 📱 Mobile App Developer focused on **iOS (Swift / SwiftUI)** & **React Native**
@@ -35,20 +42,24 @@ I enjoy turning ideas into polished, scalable products 🚀
 - ⚡ Performance-first mindset
 - 🎨 UI/UX enthusiast who designs before coding
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 🚧 Currently Building
 
-- 📱 **Oculis** – Eye Exercise App  
-  *SwiftUI · AVFoundation · Notifications*
+🚧 <img src="https://img.shields.io/badge/status-active-success?style=flat-square"/> **Oculis** – Eye Exercise App  
+*SwiftUI · AVFoundation · Notifications*
 
-- 🧪 **Materia** – Interactive Chemistry Learning App  
-  *Swift · Custom UI · Animations*
+🚧 <img src="https://img.shields.io/badge/status-active-success?style=flat-square"/> **Materia** – Chemistry Learning App  
+*Swift · Custom UI · Animations*
 
-- 💬 **Real-time Chat App**  
-  *React Native · Firebase · Realtime Database*
+🚧 <img src="https://img.shields.io/badge/status-active-success?style=flat-square"/> **Real-time Chat App**  
+*React Native · Firebase*
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 🚀 Skill Proficiency
 
@@ -58,7 +69,16 @@ React + TypeScript     █████████░ 80%
 Backend (Firebase)     ████████░░ 75%  
 DSA & Problem Solving  ███████░░░ 70%  
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-Expert-orange?style=for-the-badge&logo=swift"/>
+  <img src="https://img.shields.io/badge/SwiftUI-Advanced-blue?style=for-the-badge&logo=swift"/>
+  <img src="https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Firebase-Backend-yellow?style=for-the-badge&logo=firebase"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 🧩 How I Build Apps
 
@@ -68,33 +88,34 @@ DSA & Problem Solving  ███████░░░ 70%
 4. Optimize for performance, memory & battery
 5. Ship fast → test → iterate → improve
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 📦 Featured Projects
 
 ### 📱 Oculis – Eye Exercise App
-- Helps reduce eye strain for long screen users
-- Built with SwiftUI and native iOS APIs  
+- Helps reduce eye strain for long screen users  
 **Tech:** SwiftUI · AVFoundation · Notifications  
 🔗 Repo: *Coming soon*
 
 ---
 
 ### 🧪 Materia – Chemistry Learning App
-- Visual and interactive compound learning
-- Focused on clean UI and education UX  
+- Visual and interactive compound learning  
 **Tech:** Swift · Custom UI · Animations  
 🔗 Repo: *Coming soon*
 
 ---
 
 ### 💬 Real-time Chat App
-- Realtime messaging with authentication
-- Cross-platform support  
+- Realtime messaging with authentication  
 **Tech:** React Native · Firebase  
 🔗 Repo: *Coming soon*
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 📊 Developer Dashboard
 
@@ -104,7 +125,9 @@ DSA & Problem Solving  ███████░░░ 70%
 - 🎯 **Focus:** Performance-first, user-centric apps
 - 🧩 **Architecture Preference:** MVVM
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 📦 If This Were an App 😄
 
@@ -114,7 +137,9 @@ Platform: **iOS · Android · Web**
 Status: **Actively maintained**  
 Build Type: **Performance Optimized**
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 🗺️ 2025 Roadmap
 
@@ -124,11 +149,13 @@ Build Type: **Performance Optimized**
 - [ ] Open-source contributions
 - [ ] Launch one flagship app
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## ⚡ Where to Find Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/Anubhav Dubey">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -140,12 +167,14 @@ Build Type: **Performance Optimized**
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhavprogramer&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anubhavprogramer&show_icons=true&rank_icon=github" />
 </p>
 
 <p align="center">
@@ -159,3 +188,5 @@ Build Type: **Performance Optimized**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anubhavprogramer&margin-w=15" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
