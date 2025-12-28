@@ -1,89 +1,133 @@
-<h1 align="center">Hi 👋, I'm Anubhav || @x_10_tion</h1>
+<h1 align="center">Hi 👋, I'm Anubhav Dubey</h1>
 <h3 align="center">
 Mobile App Developer (iOS & React Native) • Frontend Engineer • Product Builder
 </h3>
 
 <p align="center">
-I build high-performance mobile applications and scalable frontends with a strong focus on 
-<strong>clean architecture, performance, and real-world usability</strong>.
+I build <strong>high-performance mobile applications</strong> and <strong>modern frontends</strong> with a strong focus on
+clean architecture, performance, and real-world usability.
 </p>
 
 <p align="center">
-My work spans from <strong>Swift / SwiftUI iOS apps</strong> to 
-<strong>React Native cross-platform products</strong>, backed by modern backends.
-I enjoy turning ideas into polished products 🚀
+From native <strong>Swift / SwiftUI iOS apps</strong> to <strong>React Native cross-platform products</strong>,
+I enjoy turning ideas into polished, scalable products 🚀
 </p>
 
-<hr/>
+---
 
-<h2>🧠 What I Do</h2>
-<ul>
-  <li>📱 Build production-ready iOS apps using <strong>Swift, SwiftUI, UIKit</strong></li>
-  <li>⚛️ Develop cross-platform apps with <strong>React Native</strong></li>
-  <li>🧩 Design scalable app architectures (MVVM, modular code)</li>
-  <li>🌐 Create modern frontends with <strong>React, TypeScript</strong></li>
-  <li>🔐 Integrate authentication, databases & cloud services</li>
-  <li>🎨 Design clean UI/UX with <strong>Figma</strong></li>
-</ul>
+## 📱 Navigation
+- [🧠 About Me](#-about-me)
+- [🚧 Currently Building](#-currently-building)
+- [🚀 Skill Proficiency](#-skill-proficiency)
+- [🧩 How I Build Apps](#-how-i-build-apps)
+- [📦 Featured Projects](#-featured-projects)
+- [📊 Developer Dashboard](#-developer-dashboard)
+- [🗺️ Roadmap](#️-2025-roadmap)
+- [📬 Contact](#-where-to-find-me)
+- [📈 GitHub Stats](#-github-stats)
 
-<hr/>
+---
 
-<h2>🚀 Languages & Technologies</h2>
+## 🧠 About Me
+- 📱 Mobile App Developer focused on **iOS (Swift / SwiftUI)** & **React Native**
+- 🌐 Frontend experience with **React, TypeScript**
+- 🧩 Strong believer in **clean architecture (MVVM)** and modular code
+- ⚡ Performance-first mindset
+- 🎨 UI/UX enthusiast who designs before coding
 
-<h3>💻 Programming Languages</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
-</p>
+---
 
-<h3>📱 Mobile Development</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="42" height="42"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="42" height="42"/>
-</p>
+## 🚧 Currently Building
 
-<h3>🌐 Frontend & UI</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" height="42"/>
-</p>
+- 📱 **Oculis** – Eye Exercise App  
+  *SwiftUI · AVFoundation · Notifications*
 
-<h3>🗄️ Backend & Databases</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="42" height="42"/>
-</p>
+- 🧪 **Materia** – Interactive Chemistry Learning App  
+  *Swift · Custom UI · Animations*
 
-<h3>🛠 Tools & Design</h3>
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="42" height="42"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="42" height="42"/>
-</p>
+- 💬 **Real-time Chat App**  
+  *React Native · Firebase · Realtime Database*
 
-<hr/>
+---
 
-<h2>📌 Current Focus</h2>
-<ul>
-  <li>Advanced SwiftUI & iOS system design</li>
-  <li>Performance-optimized mobile apps</li>
-  <li>Clean architecture & scalable codebases</li>
-  <li>Building real-world, user-centric products</li>
-</ul>
+## 🚀 Skill Proficiency
 
-<hr/>
+Swift / SwiftUI        ██████████ 90%  
+React Native           █████████░ 85%  
+React + TypeScript     █████████░ 80%  
+Backend (Firebase)     ████████░░ 75%  
+DSA & Problem Solving  ███████░░░ 70%  
 
-<h2>⚡ Where to Find Me</h2>
+---
+
+## 🧩 How I Build Apps
+
+1. Start with the user problem, not features
+2. Design UI flows and edge cases first
+3. Choose clean architecture (MVVM / modular)
+4. Optimize for performance, memory & battery
+5. Ship fast → test → iterate → improve
+
+---
+
+## 📦 Featured Projects
+
+### 📱 Oculis – Eye Exercise App
+- Helps reduce eye strain for long screen users
+- Built with SwiftUI and native iOS APIs  
+**Tech:** SwiftUI · AVFoundation · Notifications  
+🔗 Repo: *Coming soon*
+
+---
+
+### 🧪 Materia – Chemistry Learning App
+- Visual and interactive compound learning
+- Focused on clean UI and education UX  
+**Tech:** Swift · Custom UI · Animations  
+🔗 Repo: *Coming soon*
+
+---
+
+### 💬 Real-time Chat App
+- Realtime messaging with authentication
+- Cross-platform support  
+**Tech:** React Native · Firebase  
+🔗 Repo: *Coming soon*
+
+---
+
+## 📊 Developer Dashboard
+
+- 🧠 **Primary Languages:** Swift, TypeScript
+- 🔥 **Most Active Area:** Mobile App Development
+- ⏱ **Daily Coding Time:** 4–6 hours
+- 🎯 **Focus:** Performance-first, user-centric apps
+- 🧩 **Architecture Preference:** MVVM
+
+---
+
+## 📦 If This Were an App 😄
+
+Name: **Anubhav.dev**  
+Version: **1.0.0**  
+Platform: **iOS · Android · Web**  
+Status: **Actively maintained**  
+Build Type: **Performance Optimized**
+
+---
+
+## 🗺️ 2025 Roadmap
+
+- [x] Master SwiftUI fundamentals
+- [x] Build production React Native apps
+- [ ] Advanced iOS animations & gestures
+- [ ] Open-source contributions
+- [ ] Launch one flagship app
+
+---
+
+## ⚡ Where to Find Me
+
 <p>
   <a href="https://www.linkedin.com/in/Anubhav Dubey">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -96,12 +140,12 @@ I enjoy turning ideas into polished products 🚀
   </a>
 </p>
 
-<hr/>
+---
 
-<h2>📊 GitHub Stats</h2>
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhavprogramer&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anubhavprogramer&show_icons=true" />
 </p>
 
 <p align="center">
